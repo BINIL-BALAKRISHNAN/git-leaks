@@ -1,0 +1,2 @@
+Normal application configuration.
+Application is running successfully.
